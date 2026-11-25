@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Shikha Kushwaha
 
-### 📊 Data Analyst | Python • SQL • Power BI • Tableau • Machine Learning
-
 I enjoy turning raw data into clear insights that support better business decisions. My experience combines data analysis, IT service operations, reporting, process improvement, and stakeholder collaboration.
 
 ---
